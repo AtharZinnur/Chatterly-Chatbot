@@ -1,5 +1,5 @@
 
-# Kenny the AI Chatbot
+# Chatterly the AI Chatbot
 
 Kenny is a Python-based AI chatbot built using spaCy and NLTK. It is designed to understand and respond to user inputs, with functionality for natural language processing (NLP) and fallback responses when the input is not recognized.
 
